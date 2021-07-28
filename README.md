@@ -3,7 +3,7 @@
 ## My name's Samuel!
 Hello, I'm 16 years old, I'm a fanatic per tecnology things because this I start
 learned programing and outhers things in Youtube and outher sites. I created this
-github account to learn things like: C++, Python, Lua, Markdown and outhers, to
+GitHub account to learn things like: C++, Python, Lua, Markdown and outhers, to
 share some repository and private outhers.
 
 ``` Python
@@ -15,16 +15,18 @@ studySites = {'Youtube.com': 'Since: 2016 (Everything I know XD)',
               }
 studySchools = {'Microcamp': 'Since 2019 (Learned about Hardware)',
                 'Imugi': 'Since 2021 (Learning about grafical design and english)'}
+languages = {'Portuguese': 'Native language', 
+             'English': 'Lerning...'}
                 
 ```
 
 ---
 
 ### Know a lot about:
-- python
-- tkinter
-- linux
-- pothoshop or gimp(image manipulation)
+- Python
+- TKinter
+- Linux
+- photoshop or gimp(image manipulation)
 
 ---
 ### Know the basic about:
@@ -37,7 +39,7 @@ studySchools = {'Microcamp': 'Since 2019 (Learned about Hardware)',
 - C++ & C
 - JavaScript
 - Shell script
-- pygame
+- Pygame
 
 ##### I can learn outher things or upgrade my knowledge with time don't worry...
 
@@ -49,5 +51,6 @@ studySchools = {'Microcamp': 'Since 2019 (Learned about Hardware)',
 - Chess
 - Sudoku
 - Terraria
+- Minecraft
 
 *And this is all :)*
