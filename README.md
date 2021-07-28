@@ -4,7 +4,7 @@
   }
 </style>
 
-<div id="pai">something<d/iv>
+<div id="pai">something</div>
 ===
 
 ---
