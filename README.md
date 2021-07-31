@@ -15,9 +15,11 @@ studySites = {'Youtube.com': 'Since: 2016 (Everything I know XD)',
               }
 studySchools = {'Microcamp': 'Since 2019 (Learned about Hardware)',
                 'Imugi': 'Since 2021 (Learning about grafical design and english)'}
+
 languages = {'Portuguese': 'Native language', 
              'English': 'Lerning...'}
-                
+programingLanguges = ['Python', 'Lua', 'JavaScript']
+        
 ```
 
 ---
@@ -44,8 +46,6 @@ languages = {'Portuguese': 'Native language',
 ##### I can learn outher things or upgrade my knowledge with time don't worry...
 
 ---
-
-
 ### Hobbies:
 - Rubik's cube
 - Chess
@@ -53,4 +53,4 @@ languages = {'Portuguese': 'Native language',
 - Terraria
 - Minecraft
 
-*And this is all :)*
+###### *And this is all :)*
