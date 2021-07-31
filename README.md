@@ -1,5 +1,3 @@
-
-
 ## My name's Samuel!
 Hello, I'm 16 years old, I'm a fanatic per tecnology things because this I start
 learned programing and outhers things in Youtube and outher sites. I created this
@@ -15,11 +13,9 @@ studySites = {'Youtube.com': 'Since: 2016 (Everything I know XD)',
               }
 studySchools = {'Microcamp': 'Since 2019 (Learned about Hardware)',
                 'Imugi': 'Since 2021 (Learning about grafical design and english)'}
-
 languages = {'Portuguese': 'Native language', 
              'English': 'Lerning...'}
-programingLanguges = ['Python', 'Lua', 'JavaScript']
-        
+programingLanguges = ['Python', 'Lua', 'JavaScript']      
 ```
 
 ---
