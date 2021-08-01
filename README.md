@@ -6,6 +6,10 @@ share some repository and private outhers.
 
 ``` Python
 workingInCompanny = False
+country = 'Brazil'
+age = 16
+programingLanguges = ['Python', 'Lua', 'JavaScript']  
+
 studySites = {'Youtube.com': 'Since: 2016 (Everything I know XD)',
               'cursoemvideo.com': 'Since: 2017 (Learned more about Python and basic Linux)',
               'terminalroot.com.br': 'Since: 2019 (Lerned more about Linux)'
@@ -15,7 +19,7 @@ studySchools = {'Microcamp': 'Since 2019 (Learned about Hardware)',
                 'Imugi': 'Since 2021 (Learning about grafical design and english)'}
 languages = {'Portuguese': 'Native language', 
              'English': 'Lerning...'}
-programingLanguges = ['Python', 'Lua', 'JavaScript']      
+    
 ```
 
 ---
@@ -31,6 +35,8 @@ programingLanguges = ['Python', 'Lua', 'JavaScript']
 - Lua
 - CSS & HTMl
 - Hardware
+- Arduino
+- Raspberry pi
 
 ---
 ### Know a little about:
