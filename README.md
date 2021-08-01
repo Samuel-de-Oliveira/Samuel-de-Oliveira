@@ -19,7 +19,6 @@ studySchools = {'Microcamp': 'Since 2019 (Learned about Hardware)',
                 'Imugi': 'Since 2021 (Learning about grafical design and english)'}
 languages = {'Portuguese': 'Native language', 
              'English': 'Lerning...'}
-    
 ```
 
 ---
