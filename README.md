@@ -8,13 +8,12 @@ share some repository and private outhers.
 workingInCompanny = False
 country = 'Brazil'
 age = 16
-programingLanguges = ['Python', 'Lua', 'JavaScript']  
+programingLanguges = ['Python', 'Lua', 'JavaScript']
 
 studySites = {'Youtube.com': 'Since: 2016 (Everything I know XD)',
               'cursoemvideo.com': 'Since: 2017 (Learned more about Python and basic Linux)',
               'terminalroot.com.br': 'Since: 2019 (Lerned more about Linux)'
-              'tkdocs.com': 'Since: 2020 (Learned more about TKinter)'
-              }
+              'tkdocs.com': 'Since: 2020 (Learned more about TKinter)'}
 studySchools = {'Microcamp': 'Since 2019 (Learned about Hardware)',
                 'Imugi': 'Since 2021 (Learning about grafical design and english)'}
 languages = {'Portuguese': 'Native language', 
