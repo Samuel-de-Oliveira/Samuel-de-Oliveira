@@ -8,7 +8,7 @@ share some repository and private outhers.
 workingInCompanny = False
 country = 'Brazil'
 age = 16
-programingLanguges = ['Python', 'Lua', 'JavaScript']
+programingLanguges = ['Python', 'Lua', 'PHPt']
 
 studySites = {'Youtube.com': 'Since: 2016 (Everything I know XD)',
               'cursoemvideo.com': 'Since: 2017 (Learned more about Python and basic Linux)',
@@ -35,6 +35,7 @@ languages = {'Portuguese': 'Native language',
 - Hardware
 - Arduino
 - Raspberry pi
+- PHP
 
 ---
 ### Know a little about:
