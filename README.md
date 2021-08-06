@@ -4,6 +4,8 @@ learned programing and outhers things in Youtube and outher sites. I created thi
 GitHub account to learn things like: C++, Python, Lua, Markdown and outhers, to
 share some repository and private outhers.
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-de-oliveira&layout=compact&theme=darcula">
+
 ``` Python
 workingInCompanny = False
 country = 'Brazil'
