@@ -1,6 +1,6 @@
 ## My name's Samuel!
 
-(English)[https://github.com/Samuel-de-Oliveira/Samuel-de-Oliveira]
+[English](https://github.com/Samuel-de-Oliveira/Samuel-de-Oliveira)
 
 Hello, I'm 16 years old, I'm a fanatic per tecnology things because this I start
 learned programing and outhers things in Youtube and outher sites. I created this
