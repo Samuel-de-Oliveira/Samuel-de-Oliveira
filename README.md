@@ -19,14 +19,13 @@ studySites = {'Youtube.com': 'Since: 2016 (Everything I know XD)',
               'cursoemvideo.com': 'Since: 2017 (Learned more about Python and basic Linux)',
               'terminalroot.com.br': 'Since: 2019 (Lerned more about Linux)'
               'tkdocs.com': 'Since: 2020 (Learned more about TKinter)'}
-studySchools = {'Microcamp': 'Since 2019 (Learned about Hardware)',
-                'Imugi': 'Since 2021 (Learning about grafical design and english)'}
+studySchools = {'Microcamp': 'Since: 2019 (Learned about Hardware)',
+                'Imugi': 'Since: 2021 (Learning about grafical design and english)'}
 languages = {'Portuguese': 'Native language', 
              'English': 'Lerning...'}
 ```
 
 ---
-
 ### Know a lot about:
 - Python 🐍
 - TKinter
@@ -49,7 +48,7 @@ languages = {'Portuguese': 'Native language',
 - Shell script 🖥️
 - Pygame 🕹️
 
-##### I can learn outher things or upgrade my knowledge with time don't worry...
+##### I can learn outher things or upgrade my knowledge with time.
 
 ---
 ### Hobbies:
