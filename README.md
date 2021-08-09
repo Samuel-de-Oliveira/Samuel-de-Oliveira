@@ -32,23 +32,23 @@ languages = {'Portuguese': 'Native language',
 - Python:snake:
 - TKinter
 - Linux:penguin:
-- photoshop or gimp(image manipulation)
+- photoshop or gimp(image manipulation):brush:
 
 ---
 ### Know the basic about:
-- Lua
+- Lua:moon:
 - CSS & HTMl
 - Hardware
 - Arduino
 - Raspberry pi
-- PHP
+- PHP:elephant:
 
 ---
 ### Know a little about:
 - C++ & C
 - JavaScript
 - Shell script
-- Pygame
+- Pygame:joystick:
 
 ##### I can learn outher things or upgrade my knowledge with time don't worry...
 
