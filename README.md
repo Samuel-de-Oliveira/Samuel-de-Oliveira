@@ -55,9 +55,9 @@ languages = {'Portuguese': 'Native language',
 ---
 ### Hobbies:
 - Rubik's cube
-- Chess
+- Chess ♟️
 - Sudoku
-- Terraria
-- Minecraft
+- Terraria 🌳
+- Minecraft 🏹
 
 ###### *And this is all :)*
