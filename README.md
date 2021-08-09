@@ -29,9 +29,9 @@ languages = {'Portuguese': 'Native language',
 ---
 
 ### Know a lot about:
-- Python
+- Python:snake:
 - TKinter
-- Linux
+- Linux:penguin:
 - photoshop or gimp(image manipulation)
 
 ---
