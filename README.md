@@ -29,26 +29,26 @@ languages = {'Portuguese': 'Native language',
 ---
 
 ### Know a lot about:
-- Python :snake:
+- Python 🐍
 - TKinter
-- Linux :penguin:
-- photoshop or gimp(image manipulation):brush:
+- Linux 🐧
+- photoshop or gimp(image manipulation) 🖌️
 
 ---
 ### Know the basic about:
-- Lua :moon:
+- Lua 🌑
 - CSS & HTMl
 - Hardware
-- Arduino
-- Raspberry pi :raspberry:
-- PHP :elephant:
+- Arduino ♾️
+- Raspberry pi
+- PHP 🐘
 
 ---
 ### Know a little about:
 - C++ & C
 - JavaScript
-- Shell script :terminal:
-- Pygame:joystick:
+- Shell script 🖥️
+- Pygame 🕹️
 
 ##### I can learn outher things or upgrade my knowledge with time don't worry...
 
