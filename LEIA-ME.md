@@ -20,7 +20,7 @@ sitesDeEstudo = {'Youtube.com': 'Desde: 2016 (Tudo que sei XD)',
               'terminalroot.com.br': 'Desde: 2019 (Aprendi mais sobre Linux)'
               'tkdocs.com': 'Desde: 2020 (Aprendi mais sobre TKinter)'}
 escolasDeEstudo = {'Microcamp': 'Desde: 2019 (Aprendi sobre Hardware)',
-                'Imugi': 'Since 2021 (Aprendi design grafico e Inglês)'}
+                'Imugi': 'Desde: 2021 (Aprendi design grafico e Inglês)'}
 linguas = {'Português': 'Linguagem principal', 
              'English': 'Aprendendo...'}
 ```
