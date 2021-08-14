@@ -13,7 +13,7 @@ compartilhar alguns repositorios e privar outros.
 trabalhaEmAlgumLugar = False
 Pais = 'Brazil'
 idade = 16
-linguagensDeProgramacao = ['Python', 'Lua', 'PHP']
+linguagensDeProgramacao = ['Python', 'Lua', 'C & C++']
 
 sitesDeEstudo = {'Youtube.com': 'Desde: 2016 (Tudo que sei XD)',
               'cursoemvideo.com': 'Desde: 2017 (Aprendi mais sobre Python e o básico do Linux)',
