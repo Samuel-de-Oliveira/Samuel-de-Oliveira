@@ -1,6 +1,6 @@
 ## Meu nome é Samuel!
 
-[English](https://github.com/Samuel-de-Oliveira/Samuel-de-Oliveira) - [Portugues](https://github.com/Samuel-de-Oliveira/Samuel-de-Oliveira/blob/main/LEIA-ME.md)
+[English](https://github.com/Samuel-de-Oliveira/Samuel-de-Oliveira) - [Português](https://github.com/Samuel-de-Oliveira/Samuel-de-Oliveira/blob/main/LEIA-ME.md)
 
 Olá, eu tenho 16 anos, sou fanatico por coisas tecnológicas por conta disso comecei
 a aprender a programar e fazer outras coisas pelo Youtube e outros sites. Criei essa
@@ -38,11 +38,11 @@ linguas = {'Português': 'Linguagem principal',
 - Hardware
 - Arduino ♾️
 - Raspberry pi
-- PHP 🐘
+- C & C++
 
 ---
 ### Sei um pouco de:
-- C++ & C
+- PHP 🐘
 - JavaScript
 - Shell script 🖥️
 - Pygame 🕹️
