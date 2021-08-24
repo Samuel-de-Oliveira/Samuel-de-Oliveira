@@ -34,6 +34,7 @@ linguas = {'Português': 'Linguagem principal',
 ---
 ### Sei o básico sobre:
 - Lua 🌑
+- Vim 🗒️
 - CSS & HTMl
 - Hardware
 - Arduino ♾️
