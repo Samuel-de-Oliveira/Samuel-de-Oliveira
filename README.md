@@ -35,6 +35,7 @@ languages = {'Portuguese': 'Native language',
 ---
 ### Know the basic about:
 - Lua 🌑
+- Vim 🗒️
 - CSS & HTMl
 - Hardware
 - Arduino ♾️
