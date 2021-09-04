@@ -13,7 +13,7 @@ compartilhar alguns repositorios e privar outros.
 trabalhaEmAlgumLugar = False
 Pais = 'Brazil'
 idade = 16
-linguagensDeProgramacao = ['Python', 'Lua', 'C & C++']
+linguagensDeProgramacao = ['Python', 'Lua']
 
 sitesDeEstudo = {'Youtube.com': 'Desde: 2016 (Tudo que sei XD)',
               'cursoemvideo.com': 'Desde: 2017 (Aprendi mais sobre Python e o básico do Linux)',
@@ -39,17 +39,16 @@ linguas = {'Português': 'Linguagem principal',
 - Hardware
 - Arduino ♾️
 - Raspberry pi
-- C & C++
+- Shell script 🖥️
 
 ---
 ### Sei um pouco de:
 - PHP 🐘
 - JavaScript
-- Shell script 🖥️
+- C & C++
 - Pygame 🕹️
 
 ##### Posso aprender outras coisas e aprimorar meus conhecimentos com o tempo.
-
 
 ---
 ### Hobbies:
