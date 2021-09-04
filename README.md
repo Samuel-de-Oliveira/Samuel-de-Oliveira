@@ -40,14 +40,14 @@ languages = {'Portuguese': 'Native language',
 - Hardware
 - Arduino ♾️
 - Raspberry pi
-- C++ & C
+- Shell script 🖥️
 
 ---
 ### Know a little about:
 - PHP 🐘
 - JavaScript
-- Shell script 🖥️
 - Pygame 🕹️
+- C++ & C
 
 ##### I can learn outher things or upgrade my knowledge with time.
 
