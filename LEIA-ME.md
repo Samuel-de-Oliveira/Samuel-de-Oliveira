@@ -13,14 +13,13 @@ compartilhar alguns repositorios e privar outros.
 trabalhaEmAlgumLugar = False
 Pais = 'Brazil'
 idade = 16
-linguagensDeProgramacao = ['Python', 'Lua']
+linguagensDeProgramacao = ['Python', 'Lua', 'Shell script']
 
 sitesDeEstudo = {'Youtube.com': 'Desde: 2016 (Tudo que sei XD)',
               'cursoemvideo.com': 'Desde: 2017 (Aprendi mais sobre Python e o básico do Linux)',
               'terminalroot.com.br': 'Desde: 2019 (Aprendi mais sobre Linux)'
               'tkdocs.com': 'Desde: 2020 (Aprendi mais sobre TKinter)'}
-escolasDeEstudo = {'Microcamp': 'Desde: 2019 (Aprendi sobre Hardware)',
-                'Imugi': 'Desde: 2021 (Aprendi design grafico e Inglês)'}
+escolasDeEstudo = {'Microcamp': 'Desde: 2019 (Aprendi sobre Hardware)'}
 linguas = {'Português': 'Linguagem principal', 
              'English': 'Aprendendo...'}
 ```
