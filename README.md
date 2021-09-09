@@ -13,14 +13,13 @@ share some repository and private outhers.
 workingInCompanny = False
 country = 'Brazil'
 age = 16
-programingLanguges = ['Python', 'Lua']
+programingLanguges = ['Python', 'Lua', 'Shell script']
 
 studySites = {'Youtube.com': 'Since: 2016 (Everything I know XD)',
               'cursoemvideo.com': 'Since: 2017 (Learned more about Python and basic Linux)',
               'terminalroot.com.br': 'Since: 2019 (Learned more about Linux)'
               'tkdocs.com': 'Since: 2020 (Learned more about TKinter)'}
-studySchools = {'Microcamp': 'Since: 2019 (Learned about Hardware)',
-                'Imugi': 'Since: 2021 (Learning about grafical design and english)'}
+studySchools = {'Microcamp': 'Since: 2019 (Learned about Hardware)'}
 languages = {'Portuguese': 'Native language', 
              'English': 'Lerning...'}
 ```
