@@ -10,8 +10,8 @@ compartilhar alguns repositorios e privar outros.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-de-oliveira&layout=compact&theme=darcula">
 
 ``` Python
-trabalhaEmAlgumLugar = False
-Pais = 'Brazil'
+trabalhaEmCompania = False
+Pais = 'Brasil'
 idade = 16
 linguagensDeProgramacao = ['Python', 'Lua', 'ShellScript']
 
