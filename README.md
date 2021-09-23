@@ -13,12 +13,13 @@ share some repository and private outhers.
 workingInCompanny = False
 country = 'Brazil'
 age = 16
-programingLanguges = ['Python', 'Lua', 'Shell script']
+programingLanguges = ['Python', 'Lua', 'ShellScript']
 
 studySites = {'Youtube.com': 'Since: 2016 (Everything I know XD)',
               'cursoemvideo.com': 'Since: 2017 (Learned more about Python and basic Linux)',
               'terminalroot.com.br': 'Since: 2019 (Learned more about Linux)'
-              'tkdocs.com': 'Since: 2020 (Learned more about TKinter)'}
+              'tkdocs.com': 'Since: 2020 (Learned more about TKinter)'
+              'meleu.sh (Yes this is a site XD)': 'Since 2020 (Learned about ShellScript)'}
 studySchools = {'Microcamp': 'Since: 2019 (Learned about Hardware)'}
 languages = {'Portuguese': 'Native language', 
              'English': 'Lerning...'}
@@ -39,7 +40,7 @@ languages = {'Portuguese': 'Native language',
 - Hardware
 - Arduino ♾️
 - Raspberry pi
-- Shell script 🖥️
+- ShellScript 🖥️
 
 ---
 ### Know a little about:
