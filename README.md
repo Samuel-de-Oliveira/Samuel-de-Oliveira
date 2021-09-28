@@ -41,11 +41,11 @@ languages = {'Portuguese': 'Native language',
 - Arduino ♾️
 - Raspberry pi
 - ShellScript 🖥️
+- JavaScipt
 
 ---
 ### Know a little about:
 - PHP 🐘
-- JavaScript
 - Pygame 🕹️
 - C++ & C
 
