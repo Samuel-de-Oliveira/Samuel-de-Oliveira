@@ -22,7 +22,8 @@ sitesDeEstudo = {'Youtube.com': 'Desde: 2016 (Tudo que sei XD)',
               'meleu.sh (Sim, é um site XD)': 'Desde: 2020 (Aprendi sobre ShellScript)'}
 escolasDeEstudo = {'Microcamp': 'Desde: 2019 (Aprendi sobre Hardware)'}
 linguas = {'Português': 'Linguagem principal', 
-             'English': 'Aprendendo...'}
+             'Inglês': 'Aprendendo...',
+             'Francês': 'Aprendendo...'}
 ```
 ---
 ### Sei bastante sobre:
