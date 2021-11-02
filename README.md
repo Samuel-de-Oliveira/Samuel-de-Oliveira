@@ -32,6 +32,7 @@ languages = {'Portuguese': 'Native language',
 - TKinter
 - Linux 🐧
 - photoshop or gimp(image manipulation) 🖌️
+- ShellScript 🖥️
 
 ---
 ### Know the basic about:
@@ -41,14 +42,15 @@ languages = {'Portuguese': 'Native language',
 - Hardware
 - Arduino ♾️
 - Raspberry pi
-- ShellScript 🖥️
 - JavaScipt
+- git :git:
 
 ---
 ### Know a little about:
 - PHP 🐘
 - Pygame 🕹️
 - C++ & C
+- kivy :kiwi:
 
 ##### I can learn outher things or upgrade my knowledge with time.
 
