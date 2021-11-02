@@ -43,14 +43,14 @@ languages = {'Portuguese': 'Native language',
 - Arduino ♾️
 - Raspberry pi
 - JavaScipt
-- git :git:
+- git
 
 ---
 ### Know a little about:
 - PHP 🐘
 - Pygame 🕹️
 - C++ & C
-- kivy :kiwi:
+- kivy
 
 ##### I can learn outher things or upgrade my knowledge with time.
 
