@@ -31,6 +31,7 @@ linguas = {'Português': 'Linguagem principal',
 - TKinter
 - Linux 🐧
 - photoshop ou gimp 🖌️
+- ShellScript 🖥️
 
 ---
 ### Sei o básico sobre:
@@ -40,7 +41,7 @@ linguas = {'Português': 'Linguagem principal',
 - Hardware
 - Arduino ♾️
 - Raspberry pi
-- ShellScript 🖥️
+- Git
 
 ---
 ### Sei um pouco de:
@@ -48,6 +49,7 @@ linguas = {'Português': 'Linguagem principal',
 - JavaScript
 - C & C++
 - Pygame 🕹️
+- Kivy
 
 ##### Posso aprender outras coisas e aprimorar meus conhecimentos com o tempo.
 
