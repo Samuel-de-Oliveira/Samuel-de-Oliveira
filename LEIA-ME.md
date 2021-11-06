@@ -7,6 +7,8 @@ a aprender a programar e fazer outras coisas pelo Youtube e outros sites. Criei 
 conta do Github para aprender coisas como: C++, Python, Lua, Markdown e outros, 
 compartilhar alguns repositorios e privar outros.
 
+**Ei, se me seguir te segurei de volta!**
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-de-oliveira&layout=compact&theme=darcula">
 
 ``` Python
