@@ -9,7 +9,7 @@ share some repository and private outhers.
 
 **Hey, if you follow me I will follow you back!**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-de-oliveira&layout=compact&theme=darcula">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-de-oliveira&layout=compact&langs_count=10&theme=darcula">
 
 ``` Python
 workingInCompanny = False
