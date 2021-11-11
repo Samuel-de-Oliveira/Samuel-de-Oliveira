@@ -9,7 +9,7 @@ compartilhar alguns repositorios e privar outros.
 
 **Ei, se me seguir te segurei de volta!**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-de-oliveira&layout=compact&theme=darcula">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-de-oliveira&layout=compact&langs_count=10&theme=darcula">
 
 ``` Python
 trabalhaEmCompania = False
@@ -19,8 +19,8 @@ linguagensDeProgramacao = ['Python', 'Lua', 'ShellScript']
 
 sitesDeEstudo = {'Youtube.com': 'Desde: 2016 (Tudo que sei XD)',
               'cursoemvideo.com': 'Desde: 2017 (Aprendi mais sobre Python e o básico do Linux)',
-              'terminalroot.com.br': 'Desde: 2019 (Aprendi mais sobre Linux)'
-              'tkdocs.com': 'Desde: 2020 (Aprendi mais sobre TKinter)'
+              'terminalroot.com.br': 'Desde: 2019 (Aprendi mais sobre Linux)',
+              'tkdocs.com': 'Desde: 2020 (Aprendi mais sobre TKinter)',
               'meleu.sh (Sim, é um site XD)': 'Desde: 2020 (Aprendi sobre ShellScript)'}
 escolasDeEstudo = {'Microcamp': 'Desde: 2019 (Aprendi sobre Hardware)'}
 linguas = {'Português': 'Linguagem principal', 
