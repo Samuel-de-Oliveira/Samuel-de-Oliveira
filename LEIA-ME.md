@@ -7,6 +7,10 @@ a aprender a programar e fazer outras coisas pelo Youtube e outros sites. Criei 
 conta do Github para aprender coisas como: C++, Python, Lua, Markdown e outros, 
 compartilhar alguns repositorios e privar outros.
 
+Eu gosto de cubo mágico ou jogos de tabuleiro como xadrez, damas e outros, alias, eu
+crio coisas relacionadas a isso como o programa [CanUseTimer](https://github.com/Samuel-de-Oliveira/CanUseTimer),
+é meu melhor projeto, por enquanto.
+
 **Ei, se me seguir te segurei de volta!**
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-de-oliveira&layout=compact&langs_count=10&theme=darcula">
@@ -62,5 +66,6 @@ linguas = {'Português': 'Linguagem principal',
 - Sudoku
 - Terraria 🌳
 - Minecraft 🏹
+- Damas
 
 ###### *E isso é tudo :)*
