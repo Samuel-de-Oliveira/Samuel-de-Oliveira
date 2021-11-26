@@ -7,6 +7,10 @@ learned programing and outhers things in Youtube and outher sites. I created thi
 GitHub account to learn things like: C++, Python, Lua, Markdown and outhers, to
 share some repository and private outhers.
 
+I love rubik's cube or board games like chess, checkers and outhers, by the way,
+I create some things about this, like the [CanUseTimer](github.com/Samuel-de-Oliveira/CanUseTimer)
+program, is my greatest project, for a while.
+
 **Hey, if you follow me I will follow you back!**
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-de-oliveira&layout=compact&langs_count=10&theme=darcula">
@@ -63,5 +67,6 @@ languages = {'Portuguese': 'Native language',
 - Sudoku
 - Terraria 🌳
 - Minecraft 🏹
+- checkers
 
 ###### *And this is all :)*
