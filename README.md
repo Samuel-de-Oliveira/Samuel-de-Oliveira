@@ -19,6 +19,7 @@ program, is my greatest project, for a while.
 workingInCompanny = False
 country = 'Brazil'
 age = 16
+
 programingLanguges = ['Python', 'Lua', 'ShellScript']
 
 studySites = {'Youtube.com': 'Since: 2016 (Everything I know XD)',
@@ -26,7 +27,9 @@ studySites = {'Youtube.com': 'Since: 2016 (Everything I know XD)',
               'terminalroot.com.br': 'Since: 2019 (Learned more about Linux)',
               'tkdocs.com': 'Since: 2020 (Learned more about TKinter)',
               'meleu.sh (Yes this is a site XD)': 'Since 2020 (Learned about ShellScript)'}
+              
 studySchools = {'Microcamp': 'Since: 2019 (Learned about Hardware)'}
+
 languages = {'Portuguese': 'Native language', 
              'English': 'Learning...',
              'French': 'Learning...'}
