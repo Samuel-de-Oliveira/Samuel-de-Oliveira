@@ -19,7 +19,7 @@ crio coisas relacionadas a isso como o programa [CanUseTimer](https://github.com
 trabalhaEmCompania = False
 Pais = 'Brasil'
 idade = 16
-linguagensDeProgramacao = ['Python', 'Lua', 'ShellScript']
+linguagensDeProgramacao = ['Python', 'Lua', 'Shell Script']
 
 sitesDeEstudo = {'Youtube.com': 'Desde: 2016 (Tudo que sei XD)',
               'cursoemvideo.com': 'Desde: 2017 (Aprendi mais sobre Python e o básico do Linux)',
