@@ -20,7 +20,7 @@ workingInCompanny = False
 country = 'Brazil'
 age = 16
 
-programingLanguges = ['Python', 'Lua', 'ShellScript']
+programingLanguges = ['Python', 'Lua', 'Shell Script']
 
 studySites = {'Youtube.com': 'Since: 2016 (Everything I know XD)',
               'cursoemvideo.com': 'Since: 2017 (Learned more about Python and basic Linux)',
