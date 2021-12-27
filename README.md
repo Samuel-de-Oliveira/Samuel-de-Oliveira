@@ -13,8 +13,8 @@ program, is my greatest project, for a while.
 
 ### Others repositories who which I like too:
 
-- [Tkinter-examples](https://Samuel-de-Oliveira/tkinter-examples)
-- [Neo Git (A Git plugin)](https://samuel-de-Oliveira/neo-git)
+- [Tkinter-examples](https://github.com/Samuel-de-Oliveira/tkinter-examples)
+- [Neo Git (A Git plugin)](https://githuyb.com/samuel-de-Oliveira/neo-git)
 
 **Hey, if you follow me I will follow you back!**
 
