@@ -11,6 +11,11 @@ Eu gosto de cubo mágico ou jogos de tabuleiro como xadrez, damas e outros, alia
 crio coisas relacionadas a isso como o programa [CanUseTimer](https://github.com/Samuel-de-Oliveira/CanUseTimer),
 é meu melhor projeto, por enquanto.
 
+### Outros repositorios que eu também gosto:
+
+- [Tkinter-examples](https://github.com/Samuelde-de-Oliveira/tkinter-examples)
+- [Neo Git(Um plugin para Git)](https://github.com/Samuel-de-Oliveira/neo-git)
+
 **Ei, se me seguir te segurei de volta!**
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-de-oliveira&layout=compact&langs_count=10&theme=darcula">
