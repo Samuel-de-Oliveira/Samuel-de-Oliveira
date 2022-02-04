@@ -2,7 +2,7 @@
 
 [English](https://github.com/Samuel-de-Oliveira/Samuel-de-Oliveira) - [Português](https://github.com/Samuel-de-Oliveira/Samuel-de-Oliveira/blob/main/LEIA-ME.md)
 
-Olá, eu tenho 16 anos, sou fanatico por coisas tecnológicas por conta disso comecei
+Olá, eu tenho 17 anos, sou fanatico por coisas tecnológicas por conta disso comecei
 a aprender a programar e fazer outras coisas pelo Youtube e outros sites. Criei essa
 conta do Github para aprender coisas como: C++, Python, Lua, Markdown e outros, 
 compartilhar alguns repositorios e privar outros.
@@ -16,7 +16,7 @@ crio coisas relacionadas a isso como o programa [CanUseTimer](https://github.com
 - [Tkinter-examples](https://github.com/Samuel-de-Oliveira/tkinter-examples)
 - [Neo Git(Um plugin para Git)](https://github.com/Samuel-de-Oliveira/neo-git)
 
-**Ei, se me seguir te segurei de volta!**
+**Ei, se me seguir te seguirei de volta!**
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-de-oliveira&layout=compact&langs_count=10&theme=darcula">
 
@@ -24,7 +24,7 @@ crio coisas relacionadas a isso como o programa [CanUseTimer](https://github.com
 trabalhaEmCompania = False
 Pais = 'Brasil'
 idade = 16
-linguagensDeProgramacao = ['Python', 'Lua', 'Shell Script']
+linguagensDeProgramacao = ['Python', 'Shell Script', 'C++']
 
 sitesDeEstudo = {'Youtube.com': 'Desde: 2016 (Tudo que sei XD)',
               'cursoemvideo.com': 'Desde: 2017 (Aprendi mais sobre Python e o básico do Linux)',
@@ -35,7 +35,7 @@ sitesDeEstudo = {'Youtube.com': 'Desde: 2016 (Tudo que sei XD)',
 escolasDeEstudo = {'Microcamp': 'Desde: 2019 (Aprendi sobre Hardware)'}
 
 linguas = {'Português': 'Linguagem principal', 
-             'Inglês': 'Aprendendo...',
+             'Inglês': 'Considero um nível medio',
              'Francês': 'Aprendendo...'}
 ```
 ---
