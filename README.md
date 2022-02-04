@@ -2,7 +2,7 @@
 
 [English](https://github.com/Samuel-de-Oliveira/Samuel-de-Oliveira) - [Português](https://github.com/Samuel-de-Oliveira/Samuel-de-Oliveira/blob/main/LEIA-ME.md)
 
-Hello, I'm 16 years old, I'm a fanatic per tecnology things because this I start
+Hello, I'm 17 years old, I'm a fanatic per tecnology things because this I start
 learned programing and outhers things in Youtube and outher sites. I created this
 GitHub account to learn things like: C++, Python, Lua, Markdown and outhers, to
 share some repository and private outhers.
@@ -15,6 +15,7 @@ program, is my greatest project, for a while.
 
 - [Tkinter-examples](https://github.com/Samuel-de-Oliveira/tkinter-examples)
 - [Neo Git (A Git plugin)](https://github.com/samuel-de-Oliveira/neo-git)
+- [Easarea](https://github.com/samuel-de-oliveira/neo-git)
 
 **Hey, if you follow me I will follow you back!**
 
@@ -23,9 +24,9 @@ program, is my greatest project, for a while.
 ``` Python
 workingInCompanny = False
 country = 'Brazil'
-age = 16
+age = 17
 
-programingLanguges = ['Python', 'Lua', 'Shell Script']
+programingLanguges = ['Python', 'Shell Script', C++]
 
 studySites = {'Youtube.com': 'Since: 2016 (Everything I know XD)',
               'cursoemvideo.com': 'Since: 2017 (Learned more about Python and basic Linux)',
