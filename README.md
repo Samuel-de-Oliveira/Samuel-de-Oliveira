@@ -15,7 +15,7 @@ program, is my greatest project, for a while.
 
 - [Tkinter-examples](https://github.com/Samuel-de-Oliveira/tkinter-examples)
 - [Neo Git (A Git plugin)](https://github.com/samuel-de-Oliveira/neo-git)
-- [Easarea](https://github.com/samuel-de-oliveira/neo-git)
+- [Easarea](https://github.com/samuel-de-oliveira/Easarea)
 
 **Hey, if you follow me I will follow you back!**
 
