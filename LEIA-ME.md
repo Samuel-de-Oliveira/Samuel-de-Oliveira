@@ -43,12 +43,11 @@ linguas = {'Português': 'Linguagem principal',
 - Python 🐍
 - TKinter
 - Linux 🐧
-- photoshop ou gimp 🖌️
+- photoshop ou gimp (Manipulação de imagens) 🖌️
 - ShellScript 🖥️
 
 ---
 ### Sei o básico sobre:
-- Lua 🌑
 - Vim 🗒️
 - CSS & HTMl
 - Hardware
