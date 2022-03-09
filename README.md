@@ -51,13 +51,11 @@ languages = {'Portuguese': 'Native language',
 
 ---
 ### Know the basic about:
-- Lua 🌑
 - Vim 🗒️
 - CSS & HTMl
 - Hardware
 - Arduino ♾️
 - Raspberry pi
-- JavaScipt
 - git
 
 ---
@@ -66,6 +64,7 @@ languages = {'Portuguese': 'Native language',
 - Pygame 🕹️
 - C++ & C
 - kivy
+- JavaScipt
 
 ##### I can learn outher things or upgrade my knowledge with time.
 
