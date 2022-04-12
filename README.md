@@ -37,7 +37,7 @@ studySites = {'Youtube.com': 'Since: 2016 (Everything I know XD)',
 studySchools = {'Microcamp': 'Since: 2019 (Learned about Hardware)'}
 
 languages = {'Portuguese': 'Native language', 
-             'English': 'I consider a medium level',
+             'English': 'Learning...',
              'French': 'Learning...'}
 ```
 
