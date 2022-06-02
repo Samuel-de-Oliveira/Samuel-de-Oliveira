@@ -11,7 +11,7 @@ I love rubik's cube or board games like chess, checkers and outhers, by the way,
 I create things about this, like the [CanUseTimer](https://github.com/Samuel-de-Oliveira/CanUseTimer)
 program, is my greatest project, for a while.
 
-### Others repositories which I like too:
+### Others projects that I made:
 
 - [Tkinter-examples](https://github.com/Samuel-de-Oliveira/tkinter-examples)
 - [Neo Git (A Git plugin)](https://github.com/samuel-de-Oliveira/neo-git)
@@ -44,10 +44,9 @@ languages = {'Portuguese': 'Native language',
 ---
 ### Know a lot about:
 - Python 🐍
-- TKinter
 - Linux 🐧
 - photoshop or gimp(image manipulation) 🖌️
-- ShellScript 🖥️
+- ShellScript 🐚
 
 ---
 ### Know the basic about:
@@ -55,14 +54,16 @@ languages = {'Portuguese': 'Native language',
 - CSS & HTMl
 - Hardware
 - Arduino ♾️
-- Raspberry pi
-- git
+- Raspberry pi 🍓
+- Git
+- TKinter
+- Lua 🌑
+- C & C++
 
 ---
 ### Know a little about:
 - PHP 🐘
 - Pygame 🕹️
-- C++ & C
 - kivy
 - JavaScipt
 
