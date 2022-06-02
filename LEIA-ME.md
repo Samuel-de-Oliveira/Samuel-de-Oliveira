@@ -11,10 +11,11 @@ Eu gosto de cubo mágico ou jogos de tabuleiro como xadrez, damas e outros, alia
 crio coisas relacionadas a isso como o programa [CanUseTimer](https://github.com/Samuel-de-Oliveira/CanUseTimer),
 é meu melhor projeto, por enquanto.
 
-### Outros repositorios que eu também gosto:
+### Outros projetos que criei:
 
 - [Tkinter-examples](https://github.com/Samuel-de-Oliveira/tkinter-examples)
 - [Neo Git(Um plugin para Git)](https://github.com/Samuel-de-Oliveira/neo-git)
+- [Easearea](https://github.com/Samuel-de-Oliveira/easearea)
 
 **Ei, se me seguir te seguirei de volta!**
 
@@ -41,10 +42,9 @@ linguas = {'Português': 'Linguagem principal',
 ---
 ### Sei bastante sobre:
 - Python 🐍
-- TKinter
 - Linux 🐧
 - photoshop ou gimp (Manipulação de imagens) 🖌️
-- ShellScript 🖥️
+- ShellScript 🐚
 
 ---
 ### Sei o básico sobre:
@@ -52,14 +52,16 @@ linguas = {'Português': 'Linguagem principal',
 - CSS & HTMl
 - Hardware
 - Arduino ♾️
-- Raspberry pi
+- Raspberry pi 🍓
 - Git
+- Lua 🌑
+- TKinter
+- C & C ++
 
 ---
 ### Sei um pouco de:
 - PHP 🐘
 - JavaScript
-- C & C++
 - Pygame 🕹️
 - Kivy
 
