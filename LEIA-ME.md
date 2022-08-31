@@ -24,8 +24,8 @@ crio coisas relacionadas a isso como o programa [CanUseTimer](https://github.com
 ``` Python
 trabalhaEmCompania = False
 Pais = 'Brasil'
-idade = 16
-linguagensDeProgramacao = ['Python', 'Shell Script', 'C++']
+idade = 17
+linguagensDeProgramacao = ['Python', 'Shell Script', 'C++', 'Lua']
 
 sitesDeEstudo = {'Youtube.com': 'Desde: 2016 (Tudo que sei XD)',
               'cursoemvideo.com': 'Desde: 2017 (Aprendi mais sobre Python e o básico do Linux)',
@@ -75,5 +75,12 @@ linguas = {'Português': 'Linguagem principal',
 - Terraria 🌳
 - Minecraft 🏹
 - Damas
+
+### Quer entar em contato?
+```lua
+-- Entar em contato por email
+Para = 'samwolfg12@gmail.com'
+Assunto = 'Vi seu email lá no Github'
+```
 
 ###### *E isso é tudo :)*
