@@ -26,7 +26,7 @@ workingInCompanny = False
 country = 'Brazil'
 age = 17
 
-programingLanguges = ['Python', 'Shell Script', 'C++']
+programingLanguges = ['Python', 'Shell Script', 'C++', 'Lua']
 
 studySites = {'Youtube.com': 'Since: 2016 (Everything I know XD)',
               'cursoemvideo.com': 'Since: 2017 (Learned more about Python and basic Linux)',
@@ -78,4 +78,11 @@ languages = {'Portuguese': 'Native language',
 - Minecraft 🏹
 - checkers
 
+### Wanna contact me?
+
+```lua
+-- Send me a email:
+To = 'samwolfg12@gmail.com'
+About = 'I see your email in Github'
+```
 ###### *And this is all :)*
