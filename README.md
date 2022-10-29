@@ -11,9 +11,8 @@ I love rubik's cube or board games like chess, checkers and outhers, by the way,
 I create things about this, like the [CanUseTimer](https://github.com/Samuel-de-Oliveira/CanUseTimer)
 program, is my greatest project, for a while.
 
-### Others projects that I made:
+### Others good projects that I made:
 
-- [Tkinter-examples](https://github.com/Samuel-de-Oliveira/tkinter-examples)
 - [Neo Git (A Git plugin)](https://github.com/samuel-de-Oliveira/neo-git)
 - [Easarea](https://github.com/samuel-de-oliveira/Easarea)
 
