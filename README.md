@@ -2,10 +2,9 @@
 
 [English](https://github.com/Samuel-de-Oliveira/Samuel-de-Oliveira) - [Português](https://github.com/Samuel-de-Oliveira/Samuel-de-Oliveira/blob/main/LEIA-ME.md)
 
-Hello, I'm 17 years old, I'm a fanatic per tecnology things because this I start
-learned programing and others things in Youtube and other sites. I created this
-GitHub account to learn things like: C++, Python, Lua, Markdown and others, to
-share some repository and private others.
+Hello, I'm 17 years old, I'm a fanatic per tecnologycal things, because this I started to
+learn programming and others things in Youtube and other sites. I've created this
+GitHub account to learn things like: C & C++, Makefile, Python, Lua, Markdown.
 
 I love rubik's cube or board games like chess, checkers and others, by the way,
 I create things about this, like the [CanUseTimer](https://github.com/Samuel-de-Oliveira/CanUseTimer)
