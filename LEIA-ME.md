@@ -4,8 +4,7 @@
 
 Olá, eu tenho 17 anos, sou fanatico por coisas tecnológicas por conta disso comecei
 a aprender a programar e fazer outras coisas pelo Youtube e outros sites. Criei essa
-conta do Github para aprender coisas como: C++, Python, Lua, Markdown e outros, 
-compartilhar alguns repositorios e privar outros.
+conta do Github para aprender coisas como: C & C++, Makefile Python, Lua, Markdown.
 
 Eu gosto de cubo mágico ou jogos de tabuleiro como xadrez, damas e outros, alias, eu
 crio coisas relacionadas a isso como o programa [CanUseTimer](https://github.com/Samuel-de-Oliveira/CanUseTimer),
@@ -13,7 +12,6 @@ crio coisas relacionadas a isso como o programa [CanUseTimer](https://github.com
 
 ### Outros projetos que criei:
 
-- [Tkinter-examples](https://github.com/Samuel-de-Oliveira/tkinter-examples)
 - [Neo Git(Um plugin para Git)](https://github.com/Samuel-de-Oliveira/neo-git)
 - [Easearea](https://github.com/Samuel-de-Oliveira/easearea)
 
