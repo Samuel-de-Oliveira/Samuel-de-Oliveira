@@ -83,5 +83,8 @@ languages = {'Portuguese': 'Native language',
 -- Send me a email:
 To = 'samwolfg12@gmail.com'
 About = 'I see your email in Github'
+
+-- My LinkedIn profile
+print("https://www.linkedin.com/in/samuel-de-oliveira-b10284203/")
 ```
 ###### *And this is all :)*
