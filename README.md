@@ -23,7 +23,7 @@ program, is my greatest project, for a while.
 ``` Python
 workingInCompanny = False
 country = 'Brazil'
-age = 17
+age = 18
 
 programingLanguges = ['Python', 'Shell Script', 'C++', 'Lua']
 
@@ -36,7 +36,7 @@ studySites = {'Youtube.com': 'Since: 2016 (Everything I know XD)',
 studySchools = {'Microcamp': 'Since: 2019 (Learned about Hardware)'}
 
 languages = {'Portuguese': 'Native language', 
-             'English': 'Learning...',
+             'English': 'Intermediate',
              'French': 'Learning...'}
 ```
 
