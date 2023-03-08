@@ -12,7 +12,7 @@ program, is my greatest project, for a while.
 
 ### Others good projects that I made:
 
-- [Neo Git (A Git plugin)](https://github.com/samuel-de-Oliveira/neo-git)
+<!-- - [Neo Git (A Git plugin)](https://github.com/samuel-de-Oliveira/neo-git) -->
 - [Easarea](https://github.com/samuel-de-oliveira/Easarea)
 - [Helen project](https://github.com/samuel-de-Oliveira/helen)
 
