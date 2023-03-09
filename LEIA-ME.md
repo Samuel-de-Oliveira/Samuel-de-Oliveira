@@ -12,7 +12,7 @@ crio coisas relacionadas a isso como o programa [CanUseTimer](https://github.com
 
 ### Outros projetos que criei:
 
-- [Neo Git(Um plugin para Git)](https://github.com/Samuel-de-Oliveira/neo-git)
+<!-- [Neo Git(Um plugin para Git)](https://github.com/Samuel-de-Oliveira/neo-git) -->
 - [Easearea](https://github.com/Samuel-de-Oliveira/easearea)
 - [Projeto Helen](https://github.com/samuel-de-Oliveira/helen)
 
