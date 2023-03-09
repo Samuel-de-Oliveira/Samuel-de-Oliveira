@@ -18,7 +18,7 @@ program, is my greatest project, for a while.
 
 **Hey, if you follow me I will follow you back!**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-de-oliveira&layout=compact&langs_count=8&theme=darcula">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-de-oliveira&layout=compact&langs_count=10&theme=darcula">
 
 ``` Python
 workingInCompanny = False
