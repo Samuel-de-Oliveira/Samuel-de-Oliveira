@@ -10,9 +10,9 @@ I love rubik's cube or board games like chess, checkers and others, by the way,
 I create things about this, like the [CanUseTimer](https://github.com/Samuel-de-Oliveira/CanUseTimer)
 program, is my greatest project, for a while.
 
-### Others good projects that I made:
+### My projects
 
-<!-- - [Neo Git (A Git plugin)](https://github.com/samuel-de-Oliveira/neo-git) -->
+- [Easy file creator](https://github.com/samuel-de-Oliveira/easyFileCreator)
 - [Easarea](https://github.com/samuel-de-oliveira/Easarea)
 - [Helen project](https://github.com/samuel-de-Oliveira/helen)
 
@@ -25,15 +25,16 @@ workingInCompanny = False
 country = 'Brazil'
 age = 18
 
-programingLanguges = ['Python', 'Shell Script', 'C++', 'Lua']
+programingLanguges = ['Python', 'C++', 'Lua']
 
 studySites = {'Youtube.com': 'Since: 2016 (Everything I know XD)',
-              'cursoemvideo.com': 'Since: 2017 (Learned more about Python and basic Linux)',
+              'cursoemvideo.com': '2017-2020 (Learned more about Python and basic Linux)',
               'terminalroot.com.br': 'Since: 2019 (Learned more about Linux)',
               'tkdocs.com': 'Since: 2020 (Learned more about TKinter)',
               'meleu.sh (Yes this is a site XD)': 'Since 2020 (Learned about ShellScript)'}
               
-studySchools = {'Microcamp': 'Since: 2019 (Learned about Hardware)'}
+studySchools = {'Microcamp': '2019-2023 (Learned about Hardware and robotic)',
+                'PICjr': 'Since: 2023 (Learning about Mathematics for science initiation)'}
 
 languages = {'Portuguese': 'Native language', 
              'English': 'Intermediate',
@@ -41,41 +42,12 @@ languages = {'Portuguese': 'Native language',
 ```
 
 ---
-### Know a lot about:
-- Python 🐍
-- Linux 🐧
-- photoshop or gimp(image manipulation) 🖌️
-- ShellScript 🐚
-
----
-### Know the basic about:
-- Vim 🗒️
-- CSS & HTMl
-- Hardware
-- Arduino ♾️
-- Raspberry pi 🍓
-- Git
-- TKinter
-- Lua 🌑
-- C & C++
-
----
-### Know a little about:
-- PHP 🐘
-- Pygame 🕹️
-- kivy
-- JavaScipt
-
-##### I can learn other things or upgrade my knowledge with time.
-
----
 ### Hobbies:
 - Rubik's cube
 - Chess ♟️
-- Sudoku
 - Terraria 🌳
 - Minecraft 🏹
-- checkers
+- Roblox 🟥
 
 ### Wanna contact me?
 
