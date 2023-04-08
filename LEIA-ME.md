@@ -10,9 +10,9 @@ Eu gosto de cubo mágico ou jogos de tabuleiro como xadrez, damas e outros, alia
 crio coisas relacionadas a isso como o programa [CanUseTimer](https://github.com/Samuel-de-Oliveira/CanUseTimer),
 é meu melhor projeto, por enquanto.
 
-### Outros projetos que criei:
+### Meus projetos
 
-<!-- [Neo Git(Um plugin para Git)](https://github.com/Samuel-de-Oliveira/neo-git) -->
+- [Easy file creator](https://github.com/Samuel-de-Oliveira/easyFileCreator)
 - [Easearea](https://github.com/Samuel-de-Oliveira/easearea)
 - [Projeto Helen](https://github.com/samuel-de-Oliveira/helen)
 
@@ -32,48 +32,21 @@ sitesDeEstudo = {'Youtube.com': 'Desde: 2016 (Tudo que sei XD)',
               'tkdocs.com': 'Desde: 2020 (Aprendi mais sobre TKinter)',
               'meleu.sh (Sim, é um site XD)': 'Desde: 2020 (Aprendi sobre ShellScript)'}
               
-escolasDeEstudo = {'Microcamp': 'Desde: 2019 (Aprendi sobre Hardware)'}
+escolasDeEstudo = {'Microcamp': '2019-2023 (Aprendi sobre Hardware e robótica)',
+                   'PICjr': 'Aprendendo matemática para iniciação científica'}
 
-linguas = {'Português': 'Linguagem principal', 
-             'Inglês': 'Considero um nível medio',
-             'Francês': 'Aprendendo...'}
+linguas = {'Português': 'Lingua nativa', 
+           'Inglês': 'Intermediario',
+           'Francês': 'Aprendendo...'}
 ```
----
-### Sei bastante sobre:
-- Python 🐍
-- Linux 🐧
-- photoshop ou gimp (Manipulação de imagens) 🖌️
-- ShellScript 🐚
-
----
-### Sei o básico sobre:
-- Vim 🗒️
-- CSS & HTMl
-- Hardware
-- Arduino ♾️
-- Raspberry pi 🍓
-- Git
-- Lua 🌑
-- TKinter
-- C & C ++
-
----
-### Sei um pouco de:
-- PHP 🐘
-- JavaScript
-- Pygame 🕹️
-- Kivy
-
-##### Posso aprender outras coisas e aprimorar meus conhecimentos com o tempo.
 
 ---
 ### Hobbies:
 - Cubo mágico
 - Xadrez ♟️
-- Sudoku
 - Terraria 🌳
 - Minecraft 🏹
-- Damas
+- Roblox 🟥
 
 ### Quer entar em contato?
 ```lua
