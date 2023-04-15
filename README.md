@@ -2,13 +2,7 @@
 
 [English](https://github.com/Samuel-de-Oliveira/Samuel-de-Oliveira) - [Português](https://github.com/Samuel-de-Oliveira/Samuel-de-Oliveira/blob/main/LEIA-ME.md)
 
-Hello, I'm 17 years old, I'm a fanatic per tecnologycal things, because this I started to
-learn programming and others things in Youtube and other sites. I've created this
-GitHub account to learn things like: C & C++, Makefile, Python, Lua, Markdown.
-
-I love rubik's cube or board games like chess, checkers and others, by the way,
-I create things about this, like the [CanUseTimer](https://github.com/Samuel-de-Oliveira/CanUseTimer)
-program, is my greatest project, for a while.
+Hello there 👋, My name's Samuel I'm a programmer just for hobbie. For now I'm looking for job in this area as freelancer, anyway in my Github profile I publish programs that I think useful for people, and private some projects that I'm working out secretly.
 
 ### My projects
 
@@ -52,11 +46,21 @@ languages = {'Portuguese': 'Native language',
 ### Wanna contact me?
 
 ```lua
+local contact = {}
+
 -- Send me a email:
-To = 'samwolfg12@gmail.com'
-About = 'I see your email in Github'
+function contact.email()
+  return 'samwolfg12@gmail.com'
+end
+
 
 -- My LinkedIn profile
-print("https://www.linkedin.com/in/samuel-de-oliveira-b10284203/")
+function contact.linkedin()
+  return 'https://www.linkedin.com/in/samuel-de-oliveira-b10284203/'
+end
+
+return contact
 ```
+###### This is a lua code :v
+
 ###### *And this is all :)*
