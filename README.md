@@ -2,7 +2,7 @@
 
 [English](https://github.com/Samuel-de-Oliveira/Samuel-de-Oliveira) - [Português](https://github.com/Samuel-de-Oliveira/Samuel-de-Oliveira/blob/main/LEIA-ME.md)
 
-Hello there 👋, My name's Samuel I'm a programmer just for hobbie. For now I'm looking for job in this area as freelancer, anyway in my Github profile I publish programs that I think useful for people, and private some projects that I'm working out secretly.
+Hello there 👋, My name's Samuel I'm a programmer just for hobbie. For now I'm looking for job in this area as freelancer, anyway in my Github profile I publish programs that I think useful for people, and privating some projects that I'm working out secretly.
 
 ### My projects
 
