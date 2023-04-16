@@ -44,9 +44,21 @@ linguas = {'Português': 'Lingua nativa',
 
 ### Quer entar em contato?
 ```lua
--- Entar em contato por email
-Para = 'samwolfg12@gmail.com'
-Assunto = 'Vi seu email lá no Github'
+local contato = {}
+
+-- Me envie um Email:
+function contact.email()
+  return 'samwolfg12@gmail.com'
+end
+
+
+-- Minha conta do Linkedin
+function contact.linkedin()
+  return 'https://www.linkedin.com/in/samuel-de-oliveira-b10284203/'
+end
+
+return contato
 ```
+###### Isso é um código em Lua :v
 
 ###### *E isso é tudo :)*
