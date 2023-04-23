@@ -6,6 +6,7 @@ Hello there 👋, My name's Samuel I'm a programmer just for hobbie. For now I'm
 
 ### My projects
 
+- [CanUseTimer](https://github.com/Samuel-de-Oliveira/CanUseTimer)
 - [Easy file creator](https://github.com/samuel-de-Oliveira/easyFileCreator)
 - [Easarea](https://github.com/samuel-de-oliveira/Easarea)
 - [Helen project](https://github.com/samuel-de-Oliveira/helen)
