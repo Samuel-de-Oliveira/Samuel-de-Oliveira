@@ -6,6 +6,7 @@ Olá 👋, meu nome é Samuel, sou programador apenas por hobby. Por enquanto es
 
 ### Meus projetos
 
+- [CanUseTimer](https://github.com/Samuel-de-Oliveira/CanUseTimer)
 - [Easy file creator](https://github.com/Samuel-de-Oliveira/easyFileCreator)
 - [Easearea](https://github.com/Samuel-de-Oliveira/easearea)
 - [Projeto Helen](https://github.com/samuel-de-Oliveira/helen)
