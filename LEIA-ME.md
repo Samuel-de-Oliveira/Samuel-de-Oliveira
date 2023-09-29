@@ -11,8 +11,6 @@ Olá 👋, meu nome é Samuel, sou programador apenas por hobby. Por enquanto es
 - [Easearea](https://github.com/Samuel-de-Oliveira/easearea)
 - [Projeto Helen](https://github.com/samuel-de-Oliveira/helen)
 
-**Ei, se me seguir te seguirei de volta!**
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-de-oliveira&layout=compact&langs_count=10&theme=darcula">
 
 ``` Python
