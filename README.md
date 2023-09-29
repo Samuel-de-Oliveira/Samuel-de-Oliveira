@@ -11,12 +11,11 @@ Hello there 👋, My name's Samuel I'm a programmer just for hobbie. For now I'm
 - [Easarea](https://github.com/samuel-de-oliveira/Easarea)
 - [Helen project](https://github.com/samuel-de-Oliveira/helen)
 
-**Hey, if you follow me I will follow you back!**
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-de-oliveira&layout=compact&langs_count=10&theme=darcula">
 
 ``` Python
-workingInCompanny = False
+workingInCompanny = True
+whichCompanny = "PopularAlimentos"
 country = 'Brazil'
 age = 18
 
