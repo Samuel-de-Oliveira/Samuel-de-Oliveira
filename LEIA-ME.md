@@ -16,9 +16,10 @@ Olá 👋, meu nome é Samuel, sou programador apenas por hobby. Por enquanto es
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-de-oliveira&layout=compact&langs_count=10&theme=darcula">
 
 ``` Python
-trabalhaEmCompania = False
+trabalhaEmCompania = True
+qualCompania = "PopularAlimentos"
 Pais = 'Brasil'
-idade = 17
+idade = 18
 linguagensDeProgramacao = ['Python', 'Shell Script', 'C++', 'Lua']
 
 sitesDeEstudo = {'Youtube.com': 'Desde: 2016 (Tudo que sei XD)',
