@@ -34,14 +34,6 @@ linguas = {'Português': 'Lingua nativa',
            'Francês': 'Aprendendo...'}
 ```
 
----
-### Hobbies:
-- Cubo mágico
-- Xadrez ♟️
-- Terraria 🌳
-- Minecraft 🏹
-- Roblox 🟥
-
 ### Quer entar em contato?
 ```lua
 local contato = {}
