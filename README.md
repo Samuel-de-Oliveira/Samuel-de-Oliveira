@@ -35,14 +35,6 @@ languages = {'Portuguese': 'Native language',
              'French': 'Learning...'}
 ```
 
----
-### Hobbies:
-- Rubik's cube
-- Chess ♟️
-- Terraria 🌳
-- Minecraft 🏹
-- Roblox 🟥
-
 ### Wanna contact me?
 
 ```lua
