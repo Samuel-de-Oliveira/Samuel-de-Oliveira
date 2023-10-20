@@ -2,7 +2,7 @@
 
 [English](https://github.com/Samuel-de-Oliveira/Samuel-de-Oliveira) - [Português](https://github.com/Samuel-de-Oliveira/Samuel-de-Oliveira/blob/main/LEIA-ME.md)
 
-Olá 👋, meu nome é Samuel, sou programador apenas por hobby. Por enquanto estou procurando emprego nessa área como freelancer, de qualquer forma no meu perfil do Github publico programas que acho úteis para as pessoas, e privando alguns projetos que estou trabalhando secretamente.
+Olá 👋, meu nome é Samuel, sou programador apenas por hobby. Por enquanto estou procurando emprego nessa área como freelancer, de qualquer forma no meu perfil do Github publico programas que acho úteis para as pessoas, e privando alguns projetos que estou trabalhando secretamente. Eu também estou estudanto para ser um professor de matemática no futuro.
 
 ### Meus projetos
 
