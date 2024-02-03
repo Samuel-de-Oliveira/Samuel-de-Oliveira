@@ -17,7 +17,7 @@ Olá 👋, meu nome é Samuel, sou programador apenas por hobby. Por enquanto es
 trabalhaEmCompania = True
 qualCompania = "PopularAlimentos"
 Pais = 'Brasil'
-idade = 18
+idade = 19
 linguagensDeProgramacao = ['Python', 'Shell Script', 'C++', 'Lua']
 
 sitesDeEstudo = {'Youtube.com': 'Desde: 2016 (Tudo que sei XD)',
@@ -27,7 +27,7 @@ sitesDeEstudo = {'Youtube.com': 'Desde: 2016 (Tudo que sei XD)',
               'meleu.sh (Sim, é um site XD)': 'Desde: 2020 (Aprendi sobre ShellScript)'}
               
 escolasDeEstudo = {'Microcamp': '2019-2023 (Aprendi sobre Hardware e robótica)',
-                   'PICjr': 'Aprendendo matemática para iniciação científica'}
+                   'PICjr': '2023 Aprendendo matemática para iniciação científica'}
 
 linguas = {'Português': 'Lingua nativa', 
            'Inglês': 'Intermediario',
