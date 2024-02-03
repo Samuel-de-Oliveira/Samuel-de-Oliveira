@@ -17,7 +17,7 @@ Hello there 👋, My name's Samuel I'm a programmer just for hobbie. For now I'm
 workingInCompanny = True
 whichCompanny = "PopularAlimentos"
 country = 'Brazil'
-age = 18
+age = 19
 
 programingLanguges = ['Python', 'C++', 'Lua']
 
@@ -27,8 +27,8 @@ studySites = {'Youtube.com': 'Since: 2016 (Everything I know XD)',
               'tkdocs.com': 'Since: 2020 (Learned more about TKinter)',
               'meleu.sh (Yes this is a site XD)': 'Since 2020 (Learned about ShellScript)'}
               
-studySchools = {'Microcamp': '2019-2023 (Learned about Hardware and robotic)',
-                'PICjr': 'Since: 2023 (Learning about Mathematics for science initiation)'}
+studySchools = {'Microcamp': '2019-2023 (Learned about Hardware and Robotics)',
+                'PICjr': '2023 (Learning about Mathematics for science initiation)'}
 
 languages = {'Portuguese': 'Native language', 
              'English': 'Intermediate',
