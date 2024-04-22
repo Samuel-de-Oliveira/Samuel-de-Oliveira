@@ -2,7 +2,9 @@
 
 [English](https://github.com/Samuel-de-Oliveira/Samuel-de-Oliveira) - [Português](https://github.com/Samuel-de-Oliveira/Samuel-de-Oliveira/blob/main/LEIA-ME.md)
 
-Hello there 👋, My name's Samuel I'm a programmer just for hobbie. For now I'm looking for job in this area as freelancer, anyway in my Github profile I publish programs that I think useful for people, and privating some projects that I'm working out secretly. I'm studing to be a math teacher in the future as well.
+Hello there 👋, My name's Samuel I'm a programmer just for hobbie. I'm currently studing a degree in mathematics in UNEAL (University of Alagoas)
+and someday a want to be a teacher of math and robotics. In my Github profile I publish my projects that I hope useful for everyone and I make it
+as my personal portifolio.
 
 ### My projects
 
@@ -16,19 +18,21 @@ Hello there 👋, My name's Samuel I'm a programmer just for hobbie. For now I'm
 ``` Python
 workingInCompanny = True
 whichCompanny = "PopularAlimentos"
+OcuppationInCompanny = "Graphical designer"
 country = 'Brazil'
+state = 'Alagoas'
 age = 19
 
 programingLanguges = ['Python', 'C++', 'Lua']
 
-studySites = {'Youtube.com': 'Since: 2016 (Everything I know XD)',
+studySites = {'Youtube.com': 'Since: 2016 (Everything I know)',
               'cursoemvideo.com': '2017-2020 (Learned more about Python and basic Linux)',
               'terminalroot.com.br': 'Since: 2019 (Learned more about Linux)',
               'tkdocs.com': 'Since: 2020 (Learned more about TKinter)',
-              'meleu.sh (Yes this is a site XD)': 'Since 2020 (Learned about ShellScript)'}
+              'meleu.sh': 'Since 2021 (Learned about ShellScript)'}
               
 studySchools = {'Microcamp': '2019-2023 (Learned about Hardware and Robotics)',
-                'PICjr': '2023 (Learning about Mathematics for science initiation)'}
+                'PICjr': '2023 (Learned about Mathematics for science initiation)'}
 
 languages = {'Portuguese': 'Native language', 
              'English': 'Intermediate',
@@ -53,6 +57,5 @@ end
 
 return contact
 ```
-###### This is a lua code :v
 
 ###### *And this is all :)*
