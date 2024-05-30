@@ -2,7 +2,7 @@
 
 [English](https://github.com/Samuel-de-Oliveira/Samuel-de-Oliveira) - [Português](https://github.com/Samuel-de-Oliveira/Samuel-de-Oliveira/blob/main/LEIA-ME.md)
 
-Olá 👋, Meu nome é Samuel, sou programador apenas por hobby. Atualmente estou cursando Licenciatura em Matemática na UNEAL (Universidade de Alagoas)
+Olá 👋, Meu nome é Samuel, sou programador apenas por hobby. Atualmente estou cursando Licenciatura em Matemática na UNEAL (Universidade Estadual de Alagoas)
 e pretendo ser professor de matemática e robótica. No meu perfil do Github publico meus projetos que espero que sejam úteis para todos, servindo como meu portfólio pessoal.
 
 ### Meus projetos
