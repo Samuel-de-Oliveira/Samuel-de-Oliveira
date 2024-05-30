@@ -23,12 +23,6 @@ Estado = 'Alagoas'
 idade = 19
 linguagensDeProgramacao = ['Python', 'C++', 'Lua']
 
-sitesDeEstudo = {'Youtube.com': 'Desde: 2016 (Tudo que sei)',
-              'cursoemvideo.com': 'Desde: 2017 (Aprendi mais sobre Python e o básico do Linux)',
-              'terminalroot.com.br': 'Desde: 2019 (Aprendi mais sobre Linux)',
-              'tkdocs.com': 'Desde: 2020 (Aprendi mais sobre TKinter)',
-              'meleu.sh': 'Desde: 2021 (Aprendi sobre ShellScript)'}
-              
 escolasDeEstudo = {'Microcamp': '2019-2023 (Aprendi sobre Hardware e robótica)',
                    'PICjr': '2023 Aprendi matemática para iniciação científica'}
 
