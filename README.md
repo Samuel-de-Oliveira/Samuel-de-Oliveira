@@ -24,12 +24,6 @@ state = 'Alagoas'
 age = 19
 
 programingLanguges = ['Python', 'C++', 'Lua']
-
-studySites = {'Youtube.com': 'Since: 2016 (Everything I know)',
-              'cursoemvideo.com': '2017-2020 (Learned more about Python and basic Linux)',
-              'terminalroot.com.br': 'Since: 2019 (Learned more about Linux)',
-              'tkdocs.com': 'Since: 2020 (Learned more about TKinter)',
-              'meleu.sh': 'Since 2021 (Learned about ShellScript)'}
               
 studySchools = {'Microcamp': '2019-2023 (Learned about Hardware and Robotics)',
                 'PICjr': '2023 (Learned about Mathematics for science initiation)'}
