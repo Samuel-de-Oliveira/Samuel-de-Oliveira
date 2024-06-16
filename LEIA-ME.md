@@ -21,10 +21,12 @@ ocupacaoNaCompania = "Design gráfico"
 Pais = 'Brasil'
 Estado = 'Alagoas'
 idade = 19
-linguagensDeProgramacao = ['Python', 'C++', 'Lua']
+minhaPaginaPrincipal = 'https://samuel-de-oliveira.github.io'
 
-escolasDeEstudo = {'Microcamp': '2019-2023 (Aprendi sobre Hardware e robótica)',
-                   'PICjr': '2023 Aprendi matemática para iniciação científica'}
+linguagensDeProgramacao = ['Python',
+                           'C++',
+                           'Lua',
+                           'Javascript']
 
 linguas = {'Português': 'Lingua nativa', 
            'Inglês': 'Intermediario',
