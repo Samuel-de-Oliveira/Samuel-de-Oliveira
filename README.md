@@ -24,7 +24,10 @@ state = 'Alagoas'
 age = 19
 myMainPage = 'https://samuel-de-oliveira.github.io'
 
-programingLanguges = ['Python', 'C++', 'Lua']
+programingLanguges = ['Python',
+                      'C++',
+                      'Lua',
+                      'Javascript']
 
 languages = {'Portuguese': 'Native language', 
              'English': 'Intermediate',
