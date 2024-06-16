@@ -22,11 +22,9 @@ OcuppationInCompanny = "Graphical designer"
 country = 'Brazil'
 state = 'Alagoas'
 age = 19
+myMainPage = 'https://samuel-de-oliveira.github.io'
 
 programingLanguges = ['Python', 'C++', 'Lua']
-              
-studySchools = {'Microcamp': '2019-2023 (Learned about Hardware and Robotics)',
-                'PICjr': '2023 (Learned about Mathematics for science initiation)'}
 
 languages = {'Portuguese': 'Native language', 
              'English': 'Intermediate',
