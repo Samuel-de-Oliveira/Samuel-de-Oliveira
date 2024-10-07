@@ -13,7 +13,7 @@ as my personal portifolio.
 - [Easarea](https://github.com/samuel-de-oliveira/Easarea)
 - [Helen project](https://github.com/samuel-de-Oliveira/helen)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-de-oliveira&layout=compact&langs_count=10&theme=darcula">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-de-oliveira&layout=compact&langs_count=12&theme=darcula">
 
 ``` Python
 workingInCompanny = True
