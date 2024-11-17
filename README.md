@@ -2,6 +2,8 @@
 
 [English](https://github.com/Samuel-de-Oliveira/Samuel-de-Oliveira) - [Português](https://github.com/Samuel-de-Oliveira/Samuel-de-Oliveira/blob/main/LEIA-ME.md)
 
+> ⚠️ **I'm studing for the IFAL's selection test to start to study eletroeletronics, I'll back in 2025!**
+
 Hello there 👋, My name's Samuel I'm a programmer just for hobbie. I'm currently studing a degree in mathematics in UNEAL (University of Alagoas)
 and someday I'd like to be a teacher of math and robotics. In my Github profile I publish my projects that I hope useful for everyone and I make it
 as my personal portifolio.
