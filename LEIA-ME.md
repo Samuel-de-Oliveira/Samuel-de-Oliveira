@@ -1,5 +1,7 @@
 ## Meu nome é Samuel!
 
+> ⚠️ **Estou estudando para o teste de seleção do IFAL para começar a estudar eletroeletrônica, voltarei em 2025**
+
 [English](https://github.com/Samuel-de-Oliveira/Samuel-de-Oliveira) - [Português](https://github.com/Samuel-de-Oliveira/Samuel-de-Oliveira/blob/main/LEIA-ME.md)
 
 Olá 👋, Meu nome é Samuel, sou programador apenas por hobby. Atualmente estou cursando Licenciatura em Matemática na UNEAL (Universidade Estadual de Alagoas)
