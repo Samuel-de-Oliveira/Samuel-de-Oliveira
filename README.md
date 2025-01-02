@@ -18,7 +18,7 @@ as my personal portifolio.
 ``` Python
 workingInCompanny = True
 whichCompanny = "PopularAlimentos"
-OcuppationInCompanny = "Graphical designer"
+OcuppationInCompanny = "I.T. Assistent"
 country = 'Brazil'
 state = 'Alagoas'
 age = 19
