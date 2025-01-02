@@ -17,7 +17,7 @@ e pretendo ser professor de matemática e robótica. No meu perfil do Github pub
 ``` Python
 trabalhaEmCompania = True
 qualCompania = "PopularAlimentos"
-ocupacaoNaCompania = "Design gráfico"
+ocupacaoNaCompania = "Assistente de T.I."
 Pais = 'Brasil'
 Estado = 'Alagoas'
 idade = 19
