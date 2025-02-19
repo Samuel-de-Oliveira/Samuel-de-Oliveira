@@ -6,7 +6,7 @@ Olá 👋, Meu nome é Samuel, sou programador apenas por hobby. Atualmente esto
 e fazendo curso Técnico em Eletroeletrônica no [IFAL (Instituto Federal de educação, ciência e tecnologia de Alagoas)](https://www2.ifal.edu.br/),
 pretendo no futuro ser professor de matemática e robótica. No meu perfil do Github publico meus projetos que espero que sejam úteis para todos, servindo como meu portfólio pessoal.
 
-- [Meu currículo Lattes]([https://](https://lattes.cnpq.br/6075984029805616/))
+- [Meu currículo Lattes](https://lattes.cnpq.br/6075984029805616/)
 - [Meu site pessoal](https://samuel-de-oliveira.github.io/)
 
 ### Meus projetos
@@ -16,27 +16,30 @@ pretendo no futuro ser professor de matemática e robótica. No meu perfil do Gi
 - [Easearea](https://github.com/Samuel-de-Oliveira/easearea)
 - [Projeto Helen](https://github.com/samuel-de-Oliveira/helen)
 
+### Meus pacotes Python
+
+- [PyCubing](https://github.com/Samuel-de-Oliveira/PyCubing)
+
+### Eu posso usa essas linguagens de programação 👇
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-de-oliveira&layout=compact&langs_count=10&theme=darcula">
 
 # Sobre
 
 ``` Python
-trabalhaEmCompania = True
-qualCompania = "PopularAlimentos"
-ocupacaoNaCompania = "Assistente de T.I."
-Pais = 'Brasil'
-Estado = 'Alagoas'
-idade = 20
-minhaPaginaPrincipal = 'https://samuel-de-oliveira.github.io'
+trabalhaEmCompania: bool = True
+qualCompania: str = "PopularAlimentos"
+ocupacaoNaCompania: str = "Assistente de T.I."
+Pais: str = 'Brasil'
+Estado: str = 'Alagoas'
+idade: int = 20
+minhaPaginaPrincipal: str = 'https://samuel-de-oliveira.github.io'
 
-linguagensDeProgramacao = ['Python',
-                           'C++',
-                           'Lua',
-                           'Javascript']
-
-linguas = {'Português': 'Lingua nativa', 
-           'Inglês': 'Intermediario',
-           'Francês': 'Aprendendo...'}
+linguas: dict = {
+    'Português': 'Lingua nativa', 
+    'Inglês': 'Intermediario',
+    'Francês': 'Aprendendo...'
+    }
 ```
 
 ### Quer entar em contato?
