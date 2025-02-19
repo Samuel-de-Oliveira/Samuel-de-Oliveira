@@ -16,27 +16,30 @@ as my personal portfolio.
 - [Easarea](https://github.com/samuel-de-oliveira/Easarea)
 - [Helen project](https://github.com/samuel-de-Oliveira/helen)
 
+### My Python Packages
+
+- [PyCubing](https://github.com/Samuel-de-Oliveira/PyCubing)
+
+### I might use these program languages 👇
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-de-oliveira&layout=compact&langs_count=12&theme=darcula">
 
 ### About
 
 ``` Python
-workingInCompanny = True
-whichCompanny = "PopularAlimentos"
-OcuppationInCompanny = "I.T. Assistent"
-country = 'Brazil'
-state = 'Alagoas'
-age = 20
-myMainPage = 'https://samuel-de-oliveira.github.io'
+workingInCompanny: bool = True
+whichCompanny: str = 'PopularAlimentos'
+OcuppationInCompanny: str = 'I.T. Assistent'
+country: str = 'Brazil'
+state: str = 'Alagoas'
+age: int = 20
+myMainPage: str = 'https://samuel-de-oliveira.github.io'
 
-programingLanguges = ['Python',
-                      'C++',
-                      'Lua',
-                      'Javascript']
-
-languages = {'Portuguese': 'Native language', 
-             'English': 'Intermediate',
-             'French': 'Learning...'}
+languages: dict = {
+    'Portuguese': 'Native language',
+    'English': 'Intermediate',
+    'French': 'Learning...'
+    }
 ```
 
 ### Do you want to contact me?
@@ -62,4 +65,4 @@ end
 return contact
 ```
 
-###### *And this is all :)*
+###### *And this is everything :)*
