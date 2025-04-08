@@ -22,7 +22,7 @@ pretendo no futuro ser professor de matemática e robótica. No meu perfil do Gi
 
 ### Eu posso usa essas linguagens de programação 👇
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-de-oliveira&layout=compact&langs_count=10&theme=darcula">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-de-oliveira&layout=compact&langs_count=16&theme=darcula&locale=pt-br">
 
 # Sobre
 
