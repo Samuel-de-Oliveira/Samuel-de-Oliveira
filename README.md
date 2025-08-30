@@ -27,8 +27,7 @@ as my personal portfolio.
 ### About
 
 ``` Python
-workingInCompanny: bool = True
-whichCompanny: str = 'PopularAlimentos'
+workingInCompanny: bool = False
 OcuppationInCompanny: str = 'I.T. Assistent'
 country: str = 'Brazil'
 state: str = 'Alagoas'
