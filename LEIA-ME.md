@@ -3,10 +3,10 @@
 [English](https://github.com/Samuel-de-Oliveira/Samuel-de-Oliveira) - [Português](https://github.com/Samuel-de-Oliveira/Samuel-de-Oliveira/blob/main/LEIA-ME.md)
 
 Olá 👋, Meu nome é Samuel, sou programador apenas por hobby. Atualmente estou cursando Licenciatura em Matemática na [UNEAL (Universidade Estadual de Alagoas)](https://uneal.edu.br)
-e fazendo curso Técnico em Eletroeletrônica no [IFAL (Instituto Federal de educação, ciência e tecnologia de Alagoas)](https://www2.ifal.edu.br/),
-pretendo no futuro ser professor de matemática e robótica. No meu perfil do Github publico meus projetos que espero que sejam úteis para todos, servindo como meu portfólio pessoal.
+e pretendo no futuro ser professor de matemática e programação. No meu perfil do Github publico meus projetos que espero que sejam úteis para todos, servindo como meu portfólio pessoal.
 
 - [Meu currículo Lattes](https://lattes.cnpq.br/6075984029805616/)
+- [Canal no Youtube](https://www.youtube.com/@Samuel-de-Oliveira)
 - [Meu site pessoal](https://samuel-de-oliveira.github.io/)
 
 ### Meus projetos
