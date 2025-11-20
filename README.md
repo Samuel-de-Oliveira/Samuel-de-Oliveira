@@ -2,11 +2,12 @@
 
 [English](https://github.com/Samuel-de-Oliveira/Samuel-de-Oliveira) - [Português](https://github.com/Samuel-de-Oliveira/Samuel-de-Oliveira/blob/main/LEIA-ME.md)
 
-Hello there 👋, My name's Samuel I'm a programmer just for hobbie. I'm currently studing a degree in mathematics at [UNEAL (University of Alagoas)](https://uneal.edu.br) and tecnical degree in Electro-eletronics at [IFAL (Federal Institute of education, science and technology of Alagoas)](https://en.ifal.edu.br/)
+Hello there 👋, My name's Samuel I'm a programmer just for hobbie. I'm currently studing a degree in mathematics at [UNEAL (University of Alagoas)](https://uneal.edu.br)
 and someday I'd like to be a teacher of math and robotics. In my Github profile I publish my projects that I hope useful for everyone and I make everything here
 as my personal portfolio.
 
 - [My C.V. Lattes](https://lattes.cnpq.br/6075984029805616/)
+- [Youtube Channel](https://https://www.youtube.com/@Samuel-de-Oliveira)
 - [My personal website](https://samuel-de-oliveira.github.io/)
 
 ### My projects
