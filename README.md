@@ -7,7 +7,7 @@ and someday I'd like to be a teacher of math and robotics. In my Github profile 
 as my personal portfolio.
 
 - [My C.V. Lattes](https://lattes.cnpq.br/6075984029805616/)
-- [Youtube Channel](https://https://www.youtube.com/@Samuel-de-Oliveira)
+- [Youtube Channel](https://www.youtube.com/@Samuel-de-Oliveira)
 - [My personal website](https://samuel-de-oliveira.github.io/)
 
 ### My projects
