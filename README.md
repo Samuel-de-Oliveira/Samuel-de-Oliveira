@@ -19,7 +19,7 @@ as my personal portfolio.
 
 ### My Python Packages
 
-- [PyCubing](https://github.com/Samuel-de-Oliveira/PyCubing)
+- [PyRubik](https://pypi.org/project/PyRubik/)
 
 ### I might use these program languages 👇
 
