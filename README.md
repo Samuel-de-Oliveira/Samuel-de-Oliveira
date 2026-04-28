@@ -32,7 +32,7 @@ workingInCompanny: bool = False
 OcuppationInCompanny: str = 'I.T. Assistent'
 country: str = 'Brazil'
 state: str = 'Alagoas'
-age: int = 20
+age: int = 21
 myMainPage: str = 'https://samuel-de-oliveira.github.io'
 
 languages: dict = {
