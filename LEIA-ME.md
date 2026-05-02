@@ -20,25 +20,23 @@ e pretendo no futuro ser professor de matemática e programação. No meu perfil
 
 - [PyCubing](https://github.com/Samuel-de-Oliveira/PyCubing)
 
-### Eu posso usa essas linguagens de programação 👇
+### Eu possivelmente uso essas linguagens de programação 👇
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-de-oliveira&layout=compact&langs_count=16&theme=darcula&locale=pt-br">
+<img src="https://ghstats.dev/api/langs?username=Samuel-de-oliveira&hide_border=true&hide_title=true&max_langs=12" alt="Top Languages" />
 
 # Sobre
 
 ``` Python
-trabalhaEmCompania: bool = True
-qualCompania: str = "PopularAlimentos"
-ocupacaoNaCompania: str = "Assistente de T.I."
+trabalhaEmCompania: bool = False
 Pais: str = 'Brasil'
 Estado: str = 'Alagoas'
-idade: int = 20
+idade: int = 21
 minhaPaginaPrincipal: str = 'https://samuel-de-oliveira.github.io'
 
 linguas: dict = {
     'Português': 'Lingua nativa', 
-    'Inglês': 'Intermediario',
-    'Francês': 'Aprendendo...'
+    'Inglês': 'Intermediario (B2)',
+    'Francês': 'Básico (A2)'
     }
 ```
 
@@ -54,14 +52,6 @@ function contact.email()
   }
   return email
 end
-
-
--- Minha conta do Linkedin
-function contact.linkedin()
-  return 'https://www.linkedin.com/in/samuel-de-oliveira-b10284203/'
-end
-
-return contato
 ```
 
-###### *E isso é tudo :)*
+<sub>E isso é tudo :)</sub>
