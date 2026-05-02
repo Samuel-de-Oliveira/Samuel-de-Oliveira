@@ -23,13 +23,12 @@ as my personal portfolio.
 
 ### I might use these program languages 👇
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-de-oliveira&layout=compact&langs_count=16&theme=darcula">
+<img src="https://ghstats.dev/api/langs?username=Samuel-de-oliveira&hide_border=true&hide_title=true&max_langs=12" alt="Top Languages"/>
 
 ### About
 
 ``` Python
 workingInCompanny: bool = False
-OcuppationInCompanny: str = 'I.T. Assistent'
 country: str = 'Brazil'
 state: str = 'Alagoas'
 age: int = 21
@@ -37,8 +36,8 @@ myMainPage: str = 'https://samuel-de-oliveira.github.io'
 
 languages: dict = {
     'Portuguese': 'Native language',
-    'English': 'Intermediate',
-    'French': 'Learning...'
+    'English': 'Intermediate (B2)',
+    'French': 'Basic (A2)'
     }
 ```
 
@@ -55,14 +54,6 @@ function contact.email()
   }
   return email
 end
-
-
--- My LinkedIn profile
-function contact.linkedin()
-  return 'https://www.linkedin.com/in/samuel-de-oliveira-b10284203/'
-end
-
-return contact
 ```
 
-###### *And this is everything :)*
+<sub>And this is everything :)</sub>
